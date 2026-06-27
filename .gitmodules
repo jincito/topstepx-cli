@@ -1,3 +1,6 @@
 [submodule "topstepx-dev"]
 	path = topstepx-dev
 	url = git@github.com:mizu-trading/topstepx-dev.git
+[submodule "obsidian-model"]
+	path = obsidian-model
+	url = git@github.com:PerpGremlin/obsidian-model.git
