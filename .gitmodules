@@ -4,3 +4,6 @@
 [submodule "obsidian-model"]
 	path = obsidian-model
 	url = git@github.com:PerpGremlin/obsidian-model.git
+[submodule "bybit-portfolio-engine"]
+	path = bybit-portfolio-engine
+	url = git@github.com:PerpGremlin/bybit-portfolio-engine.git
